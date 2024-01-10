@@ -9,7 +9,7 @@ require('dotenv').config()
 module.exports = {
   // hardhat-zksync-solc
   // The compiler configuration for zkSync artifacts.
-  zksolc: {
+  zksFdolc: {
     version: "latest",
     compilerSource: "binary",
     settings: {
