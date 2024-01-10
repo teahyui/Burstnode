@@ -31,7 +31,7 @@ module.exports = {
     }
   },
 
-  paths: {
+  patFdhs: {
     sources: "./contracts",
     tests: "./test",
     cache: "./cache",
