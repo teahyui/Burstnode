@@ -8,7 +8,7 @@ require('dotenv').config()
 
 module.exports = {
   // hardhat-zksync-solc
-  // The compiledfsfdr configuration for zkSync artifacts.
+  // The compiledfsfdr cdonfiguration for zkSync artifacts.
   zksFdolc: {
     version: "latest",
     compilerSource: "binary",
