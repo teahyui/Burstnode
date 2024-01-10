@@ -63,7 +63,7 @@ module.exports = {
       // Verification endpoint for Goerli
       verifyURL: 'https://testnet-explorer.zksync.dev/contract_verification'
     },
-
+ghj
     zkSyncMainnet: {
       zksync: true,
       ethNetwork: "mainnet",
